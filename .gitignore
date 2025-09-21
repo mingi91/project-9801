@@ -5,6 +5,7 @@
 !.gitignore
 !benefits.json.gz
 !daily_quote.json
+!news.json.gz
 
 # OS/에디터 캐시 무시
 .DS_Store
