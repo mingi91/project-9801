@@ -5,7 +5,7 @@
 !.gitignore
 !benefits.json.gz
 !daily_quote.json
-!news.json.gz
+!benefit_news.json.gz
 !coupang_links.json.gz
 
 # OS/에디터 캐시 무시
