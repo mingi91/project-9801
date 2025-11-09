@@ -7,10 +7,8 @@
 !daily_quote.json
 !benefit_news.json.gz
 !coupang_links.json.gz
-!lh_notice_sync.json.gz
-!lh_detail.json.gz
-!lh_detail_info.json.gz
 !lh_full.json.gz
+!lh_lh.json.gz
 
 # OS/에디터 캐시 무시
 .DS_Store
