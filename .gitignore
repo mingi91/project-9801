@@ -1,0 +1,13 @@
+# 전부 무시
+*
+
+# 올릴 파일만 예외로 허용
+!.gitignore
+!benefits.json.gz
+!daily_quote.json
+!benefit_news.json.gz
+!lh_first.json.gz
+
+# OS/에디터 캐시 무시
+.DS_Store
+Thumbs.db
